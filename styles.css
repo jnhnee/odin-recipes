@@ -17,16 +17,17 @@ body {
 /*Recipe Page Styling*/
 .recipe-title {
     text-decoration: underline;
+    color: rgb(75, 9, 138);
 }
 
-.recipe-description {
-
+.recipe-description{
+    
 }
 
-.recipe-ingredients {
-
+.recipe-ingredients li{
+    list-style-type: square;
 }
 
-.recipe-steps {
+.recipe-steps li{
     
 }
