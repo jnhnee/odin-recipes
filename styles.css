@@ -2,8 +2,11 @@ body {
     font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
+/*Homepage Styling */
 #homepage-title {
     font-size: 40px;
+    color: rgb(26, 0, 119);
+    text-decoration: underline;
 }
 
 #recipes-list li{
@@ -11,3 +14,19 @@ body {
     line-height: 40px;
 }
 
+/*Recipe Page Styling*/
+.recipe-title {
+    text-decoration: underline;
+}
+
+.recipe-description {
+
+}
+
+.recipe-ingredients {
+
+}
+
+.recipe-steps {
+    
+}
