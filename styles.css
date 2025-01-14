@@ -30,7 +30,7 @@ body {
 }
 
 #homepage-banner {
-    background-color: rgb(154, 154, 228);
+    background-color: rgb(85, 85, 167);
     text-align: center;
 }
 
@@ -46,14 +46,6 @@ body {
     color: rgb(75, 9, 138);
 }
 
-.recipe-description{
-    
-}
-
 .recipe-ingredients li{
     list-style-type: square;
-}
-
-.recipe-steps li{
-    
 }
