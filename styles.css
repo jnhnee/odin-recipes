@@ -51,3 +51,16 @@ body {
 .recipe-ingredients li{
     list-style-type: square;
 }
+
+/* Nav Bar Styling*/
+.navlist {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.navlist li {
+    list-style: none;
+    width: max-content;
+    padding: 10px;
+}
