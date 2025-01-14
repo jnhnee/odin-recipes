@@ -18,11 +18,26 @@ body {
     font-size: 40px;
     color: rgb(26, 0, 119);
     text-decoration: underline;
+    margin-top: 50px;
+}
+
+#homepage-content {
+    text-align: center;
 }
 
 #recipes-list li{
-    list-style: decimal;
-    line-height: 40px;
+    margin: 10px auto;
+}
+
+#homepage-banner {
+    background-color: rgb(154, 154, 228);
+    text-align: center;
+}
+
+#homepage-banner img{
+    height: 500px;
+    width: auto;
+    margin-bottom: -3px;
 }
 
 /*Recipe Page Styling*/
