@@ -55,7 +55,7 @@ body {
 /* Nav Bar Styling*/
 .navlist {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     
 }
 
@@ -63,4 +63,5 @@ body {
     list-style: none;
     width: max-content;
     padding: 10px;
+    flex: 1;
 }
