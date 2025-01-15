@@ -52,16 +52,18 @@ body {
     list-style-type: square;
 }
 
-/* Nav Bar Styling*/
-.navlist {
+/* Nav Bar Styling */
+nav ul{
     display: flex;
-    justify-content: center;
-    
+    align-items: center;
+    justify-content: space-evenly;
 }
 
-.navlist li {
+nav ul li {
     list-style: none;
-    width: max-content;
-    padding: 10px;
-    flex: 1;
+}
+
+nav ul li img {
+    height: 200px;
+    width: auto;
 }
