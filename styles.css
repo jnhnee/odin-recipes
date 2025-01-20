@@ -10,15 +10,14 @@ body {
 }
 
 /* Nav Bar */
-nav ul{
+nav ul {
     display: flex;
+    justify-content: center;
     align-items: center;
-    justify-content: space-evenly;
 }
-
-nav ul li img {
-    height: 175px;
-    width: auto;
+nav img {
+    width: 170px;
+    height: auto;
 }
 
 /* Homepage: Favorite Section */
