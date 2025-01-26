@@ -39,3 +39,11 @@ nav img {
 }
 
 /* Recipepage:  */
+.recipe-title {
+    margin: 15px 0;
+    color: rgb(69, 39, 97);
+}
+.food-image {
+    width: 500px;
+    height: auto;
+}
