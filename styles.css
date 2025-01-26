@@ -52,3 +52,8 @@ nav img {
     border: 1px solid lightblue;
     padding: 40px;
 }
+.recipe-ingredients {
+    width: 500px;
+    border: 1px solid lightblue;
+    padding: 40px;
+}
