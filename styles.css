@@ -57,3 +57,8 @@ nav img {
     border: 1px solid lightblue;
     padding: 40px;
 }
+.recipe-steps {
+    width: 500px;
+    border: 1px solid lightblue;
+    padding: 40px;
+}
