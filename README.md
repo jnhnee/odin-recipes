@@ -2,8 +2,9 @@
 
 The project is a part of [The Odin Project Foundations Course](https://www.theodinproject.com/lessons/foundations-recipes).
 
-## What the current project is 
-<!-- TODO -->
+## Features 
+- Homepage links to individual recipes
 
-## What skills were demonstrated
-<!-- TODO -->
+
+## Skills demonstrated
+- HTML
